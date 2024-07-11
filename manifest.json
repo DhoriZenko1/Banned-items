@@ -4,7 +4,7 @@
         "name": "Banned items v1.2",
         "description": "season reload ban items",
         "uuid": "ec215980-043f-4f3d-ad9a-b31c3cf0c2ae",
-        "version": [1, 2, 6],
+        "version": [1, 2, 7],
         "min_engine_version": [1, 21, 0]
     },
     "metadata": {
