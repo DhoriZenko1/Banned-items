@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "name": "Banned items v1.2",
+        "name": "Banned items v1.7",
         "description": "season reload ban items",
         "uuid": "ec215980-043f-4f3d-ad9a-b31c3cf0c2ae",
         "version": [1, 2, 7],
